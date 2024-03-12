@@ -1,4 +1,4 @@
-timeseries  settingsfile: D:\CWatM\CWatM-Abi\Tutorials\1_Turn-ON\settings_Rhine-30min_Tutorial-1.ini date: Tue Mar 12 14:35:53 2024 CWATM: D:\CWatM\CWatM-Abi\cwatm\run_cwatm.py, 2023/04/13 15:12
+timeseries  settingsfile: D:\CWatM\CWatM-Abi\Tutorials\1_Turn-ON\settings_Rhine-30min_Tutorial-1.ini date: Tue Mar 12 16:01:23 2024 CWATM: D:\CWatM\CWatM-Abi\cwatm\run_cwatm.py, 2023/04/13 15:12
 3
 timestep
 1
@@ -6,4 +6,3 @@ timestep
       731    0.000535133    0.000639905
      1096     0.00125957    0.000969452
      1461     0.00131294     0.00102268
-     1826    0.000772333    0.000423508
