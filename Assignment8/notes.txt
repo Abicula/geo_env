@@ -1,0 +1,4 @@
+run 2; manning coefficient = 1.86 ( > floodplains - trees)
+run 3; manning coefficient = 0.02 (between earth channel clean and earth smooth)
+
+according to google satelline, the actual area is more like floodplains (closer to run2)
