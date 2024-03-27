@@ -1,0 +1,10 @@
+# Added by Abi - model coefficients for the class ErSE 394B
+# SF = sensitivity factor
+
+prec_SF = 1.0
+Tavf_SF = 1.0
+
+
+
+
+Which output is more sensitive to changes in temperature & prec
